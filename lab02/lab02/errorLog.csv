@@ -1,0 +1,12 @@
+0,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2023-01-29 16:03:30.294392
+1,NameError,name 'farmers_markets_locations_by_latitude' is not defined,0,,2023-09-04 15:16:07.302008
+2,SyntaxError,"unexpected character after line continuation character (<ipython-input-12-d19e7001a929>, line 1)",0,,2023-09-04 15:19:02.035690
+3,AttributeError,'ellipsis' object has no attribute 'labels',0,,2023-09-04 15:19:20.980056
+4,AttributeError,'ellipsis' object has no attribute 'select',0,,2023-09-04 15:20:55.456555
+5,AttributeError,'ellipsis' object has no attribute 'select',0,,2023-09-04 15:21:00.158098
+6,NameError,name 'farmers_markets_locations_by_latitude' is not defined,0,,2023-09-04 15:22:29.210783
+7,SyntaxError,"invalid syntax (<ipython-input-37-1b7d2a42aec0>, line 2)",0,,2023-09-04 15:29:47.278024
+8,SyntaxError,"unexpected EOF while parsing (<ipython-input-38-68a1b88871ad>, line 2)",0,,2023-09-04 15:29:51.411775
+9,NameError,name 'imbd' is not defined,0,,2023-09-04 15:43:02.207434
+10,NameError,name 'above' is not defined,0,,2023-09-04 15:43:14.852163
+11,TypeError,unsupported operand type(s) for /: 'Table' and 'int',0,,2023-09-04 15:45:09.213770

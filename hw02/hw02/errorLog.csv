@@ -1,0 +1,17 @@
+0,IndentationError,"unexpected indent (<ipython-input-38-f60d5eaf2c3a>, line 3)",0,,2023-09-04 14:46:06.786911
+1,IndentationError,"unexpected indent (<ipython-input-51-87c70022b005>, line 2)",0,,2023-09-04 14:47:15.775805
+2,TypeError,array() takes from 1 to 2 positional arguments but 4 were given,0,,2023-09-10 17:39:53.017365
+3,AttributeError,'numpy.ndarray' object has no attribute 'multipy',0,,2023-09-10 18:01:30.963479
+4,AttributeError,'numpy.ndarray' object has no attribute 'multiply',0,,2023-09-10 18:01:38.800130
+5,TypeError,'function' object is not subscriptable,0,,2023-09-10 18:02:48.686628
+6,NameError,name 'np_array' is not defined,0,,2023-09-10 18:07:36.282321
+7,TypeError,'builtin_function_or_method' object is not subscriptable,0,,2023-09-10 18:14:24.157281
+8,TypeError,'builtin_function_or_method' object is not subscriptable,0,,2023-09-10 18:14:31.255125
+9,SyntaxError,"invalid syntax (4157529630.py, line 4)",0,,2023-09-10 21:19:49.237631
+10,NameError,name 'avg' is not defined,0,,2023-09-10 21:24:02.185042
+11,TypeError,'tuple' object is not callable,0,,2023-09-10 21:38:38.804157
+12,TypeError,'tuple' object is not callable,0,,2023-09-10 21:38:58.300712
+13,TypeError,'tuple' object is not callable,0,,2023-09-10 21:39:04.359328
+14,TypeError,'tuple' object is not callable,0,,2023-09-10 21:39:25.475899
+15,AssertionError,Even length sequence required,0,,2023-09-10 22:15:15.945541
+16,ValueError,"The column label must be a string, but a int32 was given",0,,2023-09-10 22:32:20.398776
