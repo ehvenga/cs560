@@ -1,0 +1,13 @@
+0,TypeError,unsupported operand type(s) for +: 'int' and 'str',0,,2023-02-08 09:17:33.866890
+1,IndexError,index 66 is out of bounds for axis 0 with size 66,0,,2023-02-08 09:17:34.510252
+2,AttributeError,'ellipsis' object has no attribute 'column',0,,2023-02-08 09:17:34.645585
+3,AttributeError,'ellipsis' object has no attribute 'take',0,,2023-02-08 09:18:09.547150
+4,TypeError,unsupported operand type(s) for +: 'int' and 'str',0,,2023-09-17 21:39:49.035240
+5,IndexError,index 66 is out of bounds for axis 0 with size 66,0,,2023-09-17 21:50:30.891809
+6,AttributeError,'numpy.ndarray' object has no attribute 'are_above',0,,2023-09-17 22:04:58.586044
+7,NameError,name 'avg' is not defined,0,,2023-09-17 22:11:48.751962
+8,SyntaxError,"invalid syntax (1579746158.py, line 1)",0,,2023-09-17 22:14:53.982400
+9,SyntaxError,"invalid syntax (1579746158.py, line 1)",0,,2023-09-17 22:14:57.030212
+10,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2023-09-17 22:17:38.372361
+11,NameError,name 'imdb_with_remainder' is not defined,0,,2023-09-17 22:18:25.856230
+12,SyntaxError,"invalid syntax (822029192.py, line 3)",0,,2023-09-17 22:19:34.322446

@@ -1,0 +1,20 @@
+0,TypeError,Table.sort() missing 1 required positional argument: 'column_or_label',0,,2023-09-17 22:38:36.050161
+1,TypeError,Table.sort() missing 1 required positional argument: 'column_or_label',0,,2023-09-17 22:38:42.233065
+2,TypeError,Table.sort() got an unexpected keyword argument 'descennding',0,,2023-09-17 22:39:31.988810
+3,SyntaxError,"'(' was never closed (3112391405.py, line 1)",0,,2023-09-17 22:55:32.911885
+4,SyntaxError,"'(' was never closed (2843780008.py, line 1)",0,,2023-09-17 22:59:47.876790
+5,SyntaxError,"'(' was never closed (3779712441.py, line 1)",0,,2023-09-17 23:03:58.257208
+6,SyntaxError,"invalid syntax (2554348521.py, line 6)",0,,2023-09-17 23:15:30.006930
+7,SyntaxError,"invalid syntax (3878672230.py, line 6)",0,,2023-09-17 23:15:40.252776
+8,ValueError,"The column ""Death Rate"" is not in the table. The table contains these columns: Birth Rate, Death Date",0,,2023-09-17 23:16:08.210487
+9,ValueError,"The column ""Death Rate"" is not in the table. The table contains these columns: Birth Rate, Death Date",0,,2023-09-17 23:16:35.749176
+10,ValueError,"The column ""Death Rate"" is not in the table. The table contains these columns: Birth Rate, Death Date",0,,2023-09-17 23:16:52.856547
+11,ValueError,"The column ""Death Rate"" is not in the table. The table contains these columns: Birth Rate, Death Date",0,,2023-09-17 23:17:19.141457
+12,ValueError,"The column ""Death Rate"" is not in the table. The table contains these columns: Birth Rate, Death Date",0,,2023-09-17 23:17:35.717359
+13,ValueError,"The column ""Death Rate"" is not in the table. The table contains these columns: Birth Rate, Death Date",0,,2023-09-17 23:17:40.203383
+14,TypeError,Table.scatter() missing 1 required positional argument: 'column_for_x',0,,2023-09-17 23:18:31.201117
+15,AttributeError,Rectangle.set() got an unexpected keyword argument 'bin',0,,2023-09-17 23:22:43.514090
+16,ValueError,"The column ""ride times"" is not in the table. The table contains these columns: sourceid, dstid, hod, ride time",0,,2023-09-17 23:24:41.611579
+17,TypeError,array() takes from 1 to 2 positional arguments but 3 were given,0,,2023-09-17 23:32:17.024275
+18,NameError,name 't' is not defined,0,,2023-09-17 23:37:47.023176
+19,NameError,name 't' is not defined,0,,2023-09-17 23:37:54.759101
