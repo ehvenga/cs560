@@ -1,0 +1,9 @@
+SyntaxError,"cannot assign to ellipsis (718800323.py, line 9)"
+NameError,name 'simulated_stats' is not defined
+NameError,name 'simulated_stats' is not defined
+RecursionError,maximum recursion depth exceeded while calling a Python object
+RecursionError,maximum recursion depth exceeded while calling a Python object
+NameError,name 'null_dist' is not defined
+NameError,name 'observed_tvds' is not defined
+NameError,name 'observed_tvds' is not defined
+AttributeError,'numpy.ndarray' object has no attribute 'items'

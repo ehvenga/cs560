@@ -1,0 +1,6 @@
+TypeError,'int' object is not iterable
+SyntaxError,"unmatched ')' (335740750.py, line 4)"
+AttributeError,module 'numpy' has no attribute 'random_choice'
+AttributeError,module 'numpy' has no attribute 'random_choice'
+IndentationError,"expected an indented block after 'if' statement on line 6 (3167870907.py, line 7)"
+NameError,name 'salary_age' is not defined
