@@ -100,6 +100,8 @@ Upon successful completion of this course, students will be able to:
 
 - Reviewing key concepts and preparing for the final exam
 
+## Usage
+
 ```bash
 git clone https://github.com/ehvenga/cs560.git
 ```
